@@ -1,0 +1,1 @@
+import{_ as o}from"./FormMontre.vue_vue_type_script_setup_true_lang.6fab511c.js";import{d as t,o as r,c as s,e as a}from"./index.804cd53e.js";const n={class:"border-0"},m=t({__name:"[id]",props:{id:String},setup(e){return(c,i)=>(r(),s("div",n,[a(o,{id:e.id},null,8,["id"])]))}});export{m as default};

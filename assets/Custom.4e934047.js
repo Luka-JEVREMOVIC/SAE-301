@@ -1,0 +1,1 @@
+import{_ as e}from"./FormMontre.vue_vue_type_script_setup_true_lang.6fab511c.js";import{d as o,o as t,c as a,e as n}from"./index.804cd53e.js";const p=o({__name:"Custom",setup(r){return(s,c)=>(t(),a("div",null,[n(e)]))}});export{p as default};
